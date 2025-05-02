@@ -1,6 +1,10 @@
-# <img src="https://github.com/Dragon-odonates/Logos/blob/main/color/dragon_color_bg.png" alt = "Color logo" height="25"/> Dragon project repository 
+# <img src="https://github.com/Dragon-odonates/Logos/blob/main/color/dragon_color_bg.png" alt = "Color logo" height = "25"/> Dragon project repository 
 
 Welcome to our GitHub repository! Here you can find resources related to the Dragon project.
+
+<img src = "Aeshna_cyanea.jpeg" alt = "Aeshna cyanea by Martin Jeanmougin" height = "200"/>
+
+> *Aeshna cyanea* :copyright: Martin Jeanmougin
 
 ## The project
 
