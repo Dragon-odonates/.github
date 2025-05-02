@@ -8,7 +8,7 @@ Welcome to our GitHub repository! Here you can find resources related to the Dra
 
 ## The project
 
-The Dragon project studies anthropogenic impacts on freshwater ecosystems by focusing on odonates (dragonflies and damselflies). We aim to build a database of odonates occurrences across Europe, by engaging with national and regional organizations. These data will then be analyzed to obtain temporal occupancy trends for European odonates species, and link these trends with different pressures. Finally, we want to engage discussions to build a European indicator based on odonates to inform conservation and environmental management.
+The [Dragon project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/dragon/) studies anthropogenic impacts on freshwater ecosystems by focusing on odonates (dragonflies and damselflies). We aim to build a database of odonates occurrences across Europe, by engaging with national and regional organizations. These data will then be analyzed to obtain temporal occupancy trends for European odonates species, and link these trends with different pressures. Finally, we want to engage discussions to build a European indicator based on odonates to inform conservation and environmental management.
 
 The Dragon project was selected from the [2022 FRB/MTE/OFB Impacts call](https://www.fondationbiodiversite.fr/en/calls/appel-a-projets-frb-mte-ofb-2022-impacts-sur-la-biodiversite-terrestre-dans-lanthropocene/).
 
