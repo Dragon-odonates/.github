@@ -30,19 +30,19 @@ Dragon is a collaborative project with 14 international members, listed below. T
     <td>UKCEH, United Kingdom</td>
   </tr>
   <tr>
-    <td>Jason BRIED/td>
+    <td>Jason BRIED</td>
     <td>Illinois Natural History Survey, United States</td>
   </tr>
   <tr>
-    <td>Aurélie COULON/td>
+    <td>Aurélie COULON</td>
     <td>CEFE and CESCO, France</td>
   </tr>
   <tr>
-    <td>Geert DE KNIJF/td>
+    <td>Geert DE KNIJF</td>
     <td>INBO​​​​, Belgium</td>
   </tr>
   <tr>
-    <td>Thore ENGEL/td>
+    <td>Thore ENGEL</td>
     <td>iDiv, Germany</td>
   </tr>
   <tr>
@@ -50,15 +50,15 @@ Dragon is a collaborative project with 14 international members, listed below. T
     <td>KU Leuven, Belgium</td>
   </tr>
   <tr>
-    <td>Colin FONTAINE/td>
+    <td>Colin FONTAINE</td>
     <td>CESCO​​​​, France</td>
   </tr>
   <tr>
-    <td>Martin JEANMOUGIN/td>
+    <td>Martin JEANMOUGIN</td>
     <td>CESCO​​​​, France</td>
   </tr>
   <tr>
-    <td>Aliénor JELIAZKOV/td>
+    <td>Aliénor JELIAZKOV</td>
     <td>INRAe​​​​, France</td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Dragon is a collaborative project with 14 international members, listed below. T
     <td>UKCEH, United Kingdom</td>
   </tr>
   <tr>
-    <td>Roy VAN GRUNSVEN/td>
+    <td>Roy VAN GRUNSVEN</td>
     <td>Dutch Butterfly Conservation​​​​, Netherlands</td>
   </tr>
  
