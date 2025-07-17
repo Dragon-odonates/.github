@@ -51,11 +51,11 @@ Dragon is a collaborative project with 14 international members, listed below. T
   </tr>
   <tr>
     <td>Colin FONTAINE</td>
-    <td>CESCO​​​​, France</td>
+    <td>MNHN, CESCO​​​​, France</td>
   </tr>
   <tr>
     <td>Martin JEANMOUGIN</td>
-    <td>CESCO​​​​, France</td>
+    <td>MNHN, CESCO​​​​, France</td>
   </tr>
   <tr>
     <td>Aliénor JELIAZKOV</td>
